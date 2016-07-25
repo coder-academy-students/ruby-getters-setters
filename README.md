@@ -7,4 +7,4 @@ Follow through the examples:
 * [Setters](setter.rb)
 * [attr_reader](attr_reader.rb)
 * [attr_writer](attr_writer.rb)
-* [attr_accessor](attr_accessor.rb)
+* [attr_accessor](attr.rb)
